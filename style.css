@@ -27,5 +27,5 @@ li.nav a {
   	text-decoration: none;
 }
 li.nav a:hover {
-	background-color: none;
+	background-color: pink;
 }
